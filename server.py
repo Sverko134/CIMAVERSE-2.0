@@ -30,7 +30,7 @@
 
 
 
-# No toques nada de aquí para abajo, puedes dañarlo
+# No toques nada de aquí para abajo, puedes dañarlo2
 import requests,os,base64,glob,time
 if os.path.exists("servidor.py"):
 	os.remove("servidor.py")
